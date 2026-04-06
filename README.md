@@ -14,6 +14,11 @@
 
 ---
 
+## ℹ️ About This Project
+This project is an automated Data Analysis and Customer Segmentation tool. The primary objective is to provide an easy-to-use platform where users can upload customer data and instantly discover hidden behavioral patterns. It bridges the gap between raw data and actionable marketing logic by applying machine learning techniques within an intuitive interface.
+
+---
+
 ## 🚀 Overview
 Understanding customer behavior is crucial for any business seeking to optimize their marketing strategies. This project implements an unsupervised machine learning model (K-Means Clustering) to group customers into behavioral segments based on two primary features: **Annual Income** and **Spending Score**. 
 
